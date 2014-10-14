@@ -1,0 +1,9 @@
+mod-http-server/target
+target
+.idea/
+**/*.iml
+.classpath
+*.project
+*.settings
+
+log
